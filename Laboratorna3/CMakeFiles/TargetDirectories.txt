@@ -1,0 +1,3 @@
+/home/mariya/Рабочий стол/Laboratorna3/CMakeFiles/rebuild_cache.dir
+/home/mariya/Рабочий стол/Laboratorna3/CMakeFiles/edit_cache.dir
+/home/mariya/Рабочий стол/Laboratorna3/CMakeFiles/labortorna3.dir
